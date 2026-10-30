@@ -1,0 +1,7 @@
+{
+  "name": "Tervox AI",
+  "description": "Premium, futuristic, multilingual personal AI assistant with interactive orb, persistent memory, and voice interaction.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
